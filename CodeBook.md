@@ -1,14 +1,14 @@
 # Code Book for result.txt data set
 
 
-*subject - Integer 1 to 30
-*activities - Character
-	WALKING
-	WALKING_UPSTAIRS
-	WALKING_DOWNSTAIRS
-	SITTING
-	STANDING
-	LAYING
+* subject - Integer 1 to 30
+* activities - Character
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
 tBodyAcc-mean()-X	- Numeric
 tBodyAcc-mean()-Y	- Numeric
 tBodyAcc-mean()-Z	- Numeric
