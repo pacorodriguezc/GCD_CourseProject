@@ -1,9 +1,8 @@
 # Code Book for result.txt data set
 
-Code Book for result.txt data set
 
-subject - Integer 1 to 30
-activities - Character
+*subject - Integer 1 to 30
+*activities - Character
 	WALKING
 	WALKING_UPSTAIRS
 	WALKING_DOWNSTAIRS
